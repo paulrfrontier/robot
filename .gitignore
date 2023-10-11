@@ -1,0 +1,5 @@
+.vscode
+poc/__pycache__/
+main
+test
+*.o
